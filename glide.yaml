@@ -1,0 +1,5 @@
+package: github.com/FactomProject/factomd/genkeypair
+import:
+- package: github.com/FactomProject/factomd
+  subpackages:
+  - common/primitives
